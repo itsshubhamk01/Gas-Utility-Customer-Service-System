@@ -1,0 +1,40 @@
+__pycache__/
+venv/
+node_modules/
+build/
+db.sqlite3
+*.pyc
+.DS_Store
+# Additional ignores
+# Python/Django
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+.coverage
+htmlcov/
+.pytest_cache/
+media/
+staticfiles/
+backend/venv/
+
+# Env files
+.env
+.env.*
+*.env
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.cache/
+
+# Logs
+*.log
+logs/
+
+# IDE/OS
+.vscode/
+.idea/
+Thumbs.db
