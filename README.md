@@ -33,4 +33,5 @@ npm start
 
 ## Notes
 - Database: SQLite by default (backend/db.sqlite3)
+  
 - This is a scaffold for demonstration and training. For production, change SECRET_KEY, DEBUG, allowed hosts, and use a production DB.
